@@ -64,5 +64,5 @@ autenticado
 * Definir y crear la entidad de Usuario
 * Describir el proceso de desarrollo. (Cómo fueron fueron creados los archivos y por qué)
 Ejercicio de entrega de NodeJs Enunciado Se requiere una API REST que permita manejar librerías y los libros asociados a cada una de las librerías. Utilizar Node.Js Express, Sequelize y Passport como la infraestructura para crear el servicio.
-##### Bonus:
+#### Bonus:
 * Que haya validación de las entidades al momento de crearse/actualizarse
