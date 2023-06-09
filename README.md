@@ -56,7 +56,7 @@ datos cuando se inicia el sistema
 * Entidad (A definir)
 **Debe existir un usuario con name: admin y password: admin**
 
-Puntos a evaluar:
+#### Puntos a evaluar:
 * Que la API permite hacer un CRUD de librerías
 * Que la API permite hacer un CRUD de libros
 * Que las acciones marcadas con (AUTH) sólo se puedan ejecutar si el usuario está
